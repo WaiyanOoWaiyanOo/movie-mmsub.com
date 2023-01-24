@@ -1,0 +1,8 @@
+Intent launchIntent = getPackageManager().getLaunchIntentForPackage(_pakage);  { startActivity(launchIntent);}
+
+
+PS's Creation World
+Hi
+ကျွန်တော်ကတော့ အွန်လိုင်းကတစ်ဆင့် နည်းပညာအကြောင်းအရာတွေကို ပြန်လည် Sharingလုပ်ပေးနေတဲ့ PSSMYTNဖြစ်ပါတယ်ခဗျာ။
+ ကျွန်တော်ရဲ့ YouTube Channelလေးကို လာရောက်အားပေးကြတဲ့ မိတ်ဆွေ ညီအစ်ကိုမောင်နှမအားလုံးကို ကျေးဇူးတင်ပါတယ်ခဗျ၊ 
+သင်ခန်းစာ(၅)အတွက် Java Codeဖြစ်ပါတယ်၊ အပေါ်က Java Code Copyယူပါ။
